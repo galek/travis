@@ -1,0 +1,17 @@
+{
+  "name": "tooljs-travis",
+  "description": "Tool to generate travis.yml",
+  "repository": "git://github.com/tooljs/travis.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "tooljs-tool": "*",
+    "tooljs-template": "*",
+    "tooljs-locals": "*",
+    "rimraf": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
